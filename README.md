@@ -14,7 +14,7 @@ Sistema web de gestão jurídica, processos, documentos, tarefas, prazos, minuta
 
 ## Como configurar e executar o ambiente
 1. Clone o repositório:
-   `git clone <sua-url-do-github>`
+   `git clone (https://github.com/emmazzeto-lang/erp-juridico.git)`
 2. Acesse a pasta do projeto:
    `cd erp-juridico`
 3. Crie a branch local de desenvolvimento:
