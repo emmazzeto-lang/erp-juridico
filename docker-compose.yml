@@ -5,6 +5,6 @@ services:
     environment:
       POSTGRES_USER: admin
       POSTGRES_PASSWORD: password123
-      POSTGRES_DB: erp_juridico
+      POSTGRES_DB: gestao_financeira
     ports:
       - "5432:5432"
