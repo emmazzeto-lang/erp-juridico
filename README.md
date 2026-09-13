@@ -2,7 +2,7 @@
 Desenvolvido para a Fundação Amigos de João Bidu, como parte do projeto Fábrica de Software.
 
 **Objetivo Geral**
-Modernizar a gestão da Fundação, reduzir processos manuais e centralizar informações para organizar receitas, despesas, notas fiscais, pagamentos, documentos, contas bancárias, metas e fontes de recursos[cite: 3]. O sistema visa garantir maior eficiência, transparência, segurança e agilidade na prestação de contas.
+Modernizar a gestão da Fundação, reduzir processos manuais e centralizar informações para organizar receitas, despesas, notas fiscais, pagamentos, documentos, contas bancárias, metas e fontes de recursos. O sistema visa garantir maior eficiência, transparência, segurança e agilidade na prestação de contas.
 
 **Tecnologias Utilizadas**
 * ASP.NET Core 8.0 (C#)
